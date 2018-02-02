@@ -24,12 +24,13 @@
 
   **webpack** 은 브라우저가 이해할 수 있는 코드로 변경해주는 툴이다.
   react를 실습하기 위해 webpack과 같은 **Module Bundler**가 필요하므로 페이스북이 제공해주는 [Create React App](https://github.com/facebook/create-react-app)을 설치한다.
-
+&nbsp;
 **2.node.js 설치**
 
 [nodejs.org](https://nodejs.org/ko/) 사이트에서 설치하면 된다.
 
 &nbsp;
-####참고
+
+#### 참고
 * https://blog.gaerae.com/2016/04/hello-react.html
 * [Nomad Academy](https://academy.nomadcoders.co/p/reactjs-fundamentals) ReactJS로 웹 서비스 만들기
