@@ -6,7 +6,7 @@
 
 
 ###RDBMS
-* [MySQL Replication 개념]()
+* [MySQL Replication 개념](https://github.com/Sujin92/TIL/blob/master/RDBMS/mysql-replication.md)
 
 
 ###React
