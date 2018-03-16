@@ -5,9 +5,9 @@
 * 폴더명은 언어나 기술명으로 생성한다.
 
 
-###RDBMS
+### RDBMS
 * [MySQL Replication 개념](https://github.com/Sujin92/TIL/blob/master/RDBMS/mysql-replication.md)
 
 
-###React
+### React
 * [React 란](https://github.com/Sujin92/TIL/blob/master/React/what-is-react.md)
