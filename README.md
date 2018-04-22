@@ -11,7 +11,7 @@
 * [MySQL Replication 개념](https://github.com/Sujin92/TIL/blob/master/RDBMS/mysql-replication.md)
 
 ### Git
-* [Git1을 이용하여 협업하기](https://github.com/Sujin92/TIL/blob/master/jpa-query-specification.md)
+* [Git을 이용하여 협업하기](https://github.com/Sujin92/TIL/blob/master/git-comparing-workflow.md)
 
 ### React
 * [React 란](https://github.com/Sujin92/TIL/blob/master/React/what-is-react.md)
