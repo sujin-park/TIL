@@ -1,7 +1,7 @@
 # TIL ( Today I Learned )
 ------------------------------------
-* 기존에 알고 있던 부분, 새롭게 알게되는 부분들에 대해서 공부할 때 마다 기록.
-* 
+* 기존에 알고 있던 부분, 새롭게 알게되는 부분들에 대해서 공부할 때 마다 기록한다.
+* 폴더명으로 항목을 구분한다.
 
 ### JPA
 * [JPA 란](https://github.com/Sujin92/TIL/blob/master/jpa-query-specification.md)
