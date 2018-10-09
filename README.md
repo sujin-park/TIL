@@ -20,3 +20,10 @@
   * [태그의 중첩과 목록](https://github.com/Sujin92/TIL/blob/master/HTML/3_%ED%83%9C%EA%B7%B8%EC%9D%98_%EC%A4%91%EC%B2%A9%EA%B3%BC_%EB%AA%A9%EB%A1%9D.md#%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%A4%91%EC%B2%A9%EA%B3%BC-%EB%AA%A9%EB%A1%9D)
   * [문서의 구조](https://github.com/Sujin92/TIL/blob/master/HTML/3_%ED%83%9C%EA%B7%B8%EC%9D%98_%EC%A4%91%EC%B2%A9%EA%B3%BC_%EB%AA%A9%EB%A1%9D.md#%EB%AC%B8%EC%84%9C%EC%9D%98-%EA%B5%AC%EC%A1%B0)
   * [DOCTYPE](https://github.com/Sujin92/TIL/blob/master/HTML/3_%ED%83%9C%EA%B7%B8%EC%9D%98_%EC%A4%91%EC%B2%A9%EA%B3%BC_%EB%AA%A9%EB%A1%9D.md#doctype)
+  * 주요태그
+    * [단락 - p](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#p)
+    * [줄바꿈 - br](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#br)
+    * [이미지 - img](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#img)
+    * [표 - table](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#table-%ED%83%9C%EA%B7%B8)
+    * [입력양식 - form](https://github.com/Sujin92/TIL/blob/master/HTML/5_%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D_form.md#%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D---form)
+    
