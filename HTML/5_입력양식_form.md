@@ -41,3 +41,27 @@
   <option value="blue">파란색</option>
 </select>
 ```
+
+## 체크박스, 라디오
+
+### 라디오버튼
+
+`type = radio, name`이 다른 경우에는 체크해도 둘 다 체크가 되어있는 상태로 남아있지만,
+name값이 같은 것들끼리 그룹화가 되고 그룹화된 버튼 중 하나가 체크되면 다른버튼은 해제된다.
+
+```html
+<input type="radio" name="color" value="red">
+<input type="radio" name="color" value="black" checked>
+<input type="radio" name="color" value="blue>
+```
+
+### 체크박스
+
+같은 name을 가지고 있는 체크박스들을 다중으로 선택할 수 있다.
+checked 속성을 미리 주면 페이지가 reloding 되어도 기본으로 선택이 되어있다.
+
+```html
+95 : <input type="checkbox" name="color" value="red">
+100 : <input type="checkbox" name="color" value="black" checked>
+105 : <input type="checkbox" name="color" value="blue>
+```
