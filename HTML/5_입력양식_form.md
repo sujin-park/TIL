@@ -24,3 +24,20 @@
   </body>
 </html>
 ```
+
+# 입력양식 - 선택
+
+`<option></option>` 태그는 선택할 수 있도록 select 태그로 묶어주어야 한다.
+묶어주면 dropdown or combobox 라고 하는 셀렉트 박스로 변경된다.
+
+* option 선택했을 때 값 이름을 color 라고 설정
+* 컴퓨터에게 전송할 때는 option value 속성을 통해서 값을 정의
+* select 태그에 multiple 이라는 속성 이름만 주면 다중 선택이 가능하다.
+
+```html
+<select name="color" multiple>
+  <option value="red">붉은색</option>
+  <option value="black">검은색</option>
+  <option value="blue">파란색</option>
+</select>
+```
