@@ -26,4 +26,4 @@
     * [이미지 - img](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#img)
     * [표 - table](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#table-%ED%83%9C%EA%B7%B8)
     * [입력양식 - form](https://github.com/Sujin92/TIL/blob/master/HTML/5_%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D_form.md#%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D---form)
-    * [입력양식 - 선택](https://github.com/Sujin92/TIL/blob/master/HTML/5_입력양식_form.md)
+    * [입력양식 - 선택](https://github.com/Sujin92/TIL/blob/master/HTML/5_입력양식_form.md#입력양식---선택)
