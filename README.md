@@ -27,3 +27,7 @@
     * [표 - table](https://github.com/Sujin92/TIL/blob/master/HTML/4_%EC%A3%BC%EC%9A%94%ED%83%9C%EA%B7%B8_%ED%91%9C%EA%B9%8C%EC%A7%80.md#table-%ED%83%9C%EA%B7%B8)
     * [입력양식 - form](https://github.com/Sujin92/TIL/blob/master/HTML/5_%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D_form.md#%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D---form)
     * [입력양식 - 선택](https://github.com/Sujin92/TIL/blob/master/HTML/5_입력양식_form.md#입력양식---선택)
+
+### Javascript
+ * 자바스크립트로 알아보는 함수형 프로그래밍
+  - [1. 함수형 프로그래밍, 순수함수 정의](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98.md)
