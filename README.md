@@ -30,4 +30,4 @@
 
 ### Javascript
  * 자바스크립트로 알아보는 함수형 프로그래밍
-  - [1. 함수형 프로그래밍, 순수함수 정의](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98.md)
+   - [1. 함수형 프로그래밍, 순수함수 정의](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98.md)
