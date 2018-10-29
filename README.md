@@ -30,4 +30,5 @@
 
 ### Javascript
  * 자바스크립트로 알아보는 함수형 프로그래밍
-   - [1. 함수형 프로그래밍, 순수함수 정의](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98.md)
+   - [1. 함수형 프로그래밍, 순수함수 정의](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EC%9A%94/1-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98.md)
+   - [2. 일급 함수, add_maker 함수](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EC%9A%94/2-%EC%9D%BC%EA%B8%89%ED%95%A8%EC%88%98.md)
