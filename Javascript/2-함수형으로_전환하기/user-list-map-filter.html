@@ -1,0 +1,109 @@
+<html>
+</html>
+
+<script>
+var users = [
+  { id: 1, name: 'ID', age: 36 },
+  { id: 2, name: 'BJ', age: 32 },
+  { id: 3, name: 'JM', age: 32 },
+  { id: 4, name: 'PJ', age: 27 },
+  { id: 5, name: 'HA', age: 25 },
+  { id: 6, name: 'JE', age: 26 },
+  { id: 7, name: 'JI', age: 31 },
+  { id: 8, name: 'MP', age: 23 }
+]
+// 회원목록, map, filter
+
+// 1. 명령형 코드
+// - 30세 이상인 users를 필터링한다.
+
+var temp_users = [];
+for (var i = 0; i < users.length; i++) {
+  if (users[i].age >= 30) {
+    temp_users.push(users[i]);
+  }
+}
+console.log(temp_users);
+
+// - 30세 이상인 users의 name을 수집한다.
+
+var names = [];
+for (var i = 0; i < temp_users.length; i++) {
+  names.push(temp_users[i].name);
+}
+console.log(names);
+
+// - 30세 미만의 users를 필터링한다.
+
+var temp_users = [];
+for (var i = 0; i < users.length; i++) {
+  if (users[i].age < 30) {
+    temp_users.push(users[i]);
+  }
+}
+console.log(temp_users);
+
+// - 30세 미만의 users의 ages를 수집한다.
+
+var ages = [];
+for (var i = 0; i < temp_users.length; i++) {
+  ages.push(temp_users[i].age);
+}
+console.log(ages);
+
+// 2. _filter, _map으로 리팩토링
+// filter는 응용형 함수, 고차 함수 (함수를 인자로 받거나 함수를 리턴 등))
+// 함수가 함수를 받아서 원하는 시점에 알고 있는 인자를 받아서 평가하고 로직에 적용
+
+function _filter (users, predicate) { // predicate는 함수
+  var new_list = [];
+  for (var i = 0; i < users.length; i++) {
+    if (predicate(users[i])) {
+      new_list.push(users[i]);
+    }
+  }
+  return new_list;
+}
+
+console.log(
+  _filter(users, function(user) { return user.age >= 30; }))
+
+console.log(
+  _filter(users, function(user) { return user.age < 30;}))
+// 3. each 만들기
+
+console.log(
+  _filter([1, 2, 3, 4], function(num) { return num % 2; }))
+
+/*
+* map method
+*/
+function _map (list, mapper) {
+  var new_list = [];
+  for (var i = 0; i < list.length; i++) {
+    new_list.push(mapper(list[i]));
+  }
+  return new_list;
+}
+
+var over30 = _filter(users, function(user) { return user.age >= 30; });
+console.log(over30);
+
+_map(over30, function(user) { return user.name });
+
+var under30 = _filter(users, function(user) { return user.age < 30; });
+console.log(under30);
+
+_map(under30, function(user) { return user.age });
+
+</script>
+
+
+
+
+
+
+
+
+
+
