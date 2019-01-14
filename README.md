@@ -34,3 +34,4 @@
    - [2. 일급 함수, add_maker 함수](https://github.com/Sujin92/TIL/blob/master/Javascript/1-%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EC%9A%94/2-%EC%9D%BC%EA%B8%89%ED%95%A8%EC%88%98.md)
    * [3. 함수형으로 전환하기 - map, filter로 전환](https://github.com/Sujin92/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/user-list-map-filter.html)
       - [다형성](https://github.com/Sujin92/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EB%8B%A4%ED%98%95%EC%84%B1.md)
+      - [커링, curry, curryr](https://github.com/Sujin92/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EC%BB%A4%EB%A7%81%2Ccurry.md)
