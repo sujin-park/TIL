@@ -38,3 +38,6 @@
       - [커링, curry, curryr](https://github.com/Sujin92/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EC%BB%A4%EB%A7%81%2Ccurry.md)
       - [파이프라인, _go, _pipe](https://github.com/sujin-park/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%2C_go%2C_pipe.md)
       - [다형성 높이기, _.keys, 에러](https://github.com/sujin-park/TIL/blob/master/Javascript/2-%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EB%8B%A4%ED%98%95%EC%84%B1%20%EB%86%92%EC%9D%B4%EA%B8%B0%2C_keys%2C%EC%97%90%EB%9F%AC.md)
+      
+### 컨퍼런스 세션 
+* [복잡한 백오피스에서 Form의 상태 다루기](https://github.com/sujin-park/TIL/blob/master/backoffice-form.md)
